@@ -1,0 +1,5 @@
+credentials.sh
+*.swp
+*.swo
+tmp_mnt/
+to_sync/
