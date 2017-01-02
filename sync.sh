@@ -1,6 +1,7 @@
 # NEED TO SETUP MUTT FOR SENDING EMAILS TOO
 
-cd /root/volvo/
+cd /home/pi/script/new_volvo
+echo New run at $(date)
 source credentials.sh
 mkdir -p tmp_mnt
 mkdir -p to_sync
